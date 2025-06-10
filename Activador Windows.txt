@@ -1,0 +1,30 @@
+********** Abrir CMD modo administrador *********
+
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+slmgr /skms kms.digiboy.ir
+slmgr /ato
+
+
+
+********** Windows 10 *********
+
+🔑​ Windows 10 Home: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+
+🔑​ Windows 10 Pro: VK7JG-NPHTM-C97JM-9MPGT-3V66T
+
+🔑​ Windows 10 Home Single Language: 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
+
+🔑​ Windows 10 Enterprise: NPPR9-FWDCX-D2C8J-H872K-2YT43
+
+
+********** Windows 11 *********
+
+🔑​Windows 11 Home: YTMG3-N6DKC-DKB77-7M9GH-8HVX7
+
+🔑​Windows 11 Pro: VK7JG-NPHTM-C97JM-9MPGT-3V66T
+
+🔑​Windows 11 Home Single Language: BT79Q-G7N6G-PGBYW-4YWX6-6F4BT
+
+🔑​Windows 11 Education: YNMGQ-8RYV3-4PGQ3-C8XTP-7CFBY
+
+🔑​Windows 11 Enterprise: XGVPP-NMH47-7TTHJ-W3FW7-8HV2C
